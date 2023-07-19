@@ -2,6 +2,10 @@
 
 The QR Code Management System is a dynamic platform designed to efficiently manage QR codes, providing seamless integration with the Google Chart API for QR code generation and utilizing ip-api.com for precise geolocation data. This system ensures robust security measures, including encryption and secure user authentication, to safeguard data privacy. With actionable insights derived from QR code usage data through API integration, informed decision-making is facilitated, optimizing QR code campaigns for maximum effectiveness.
 
+## Website
+
+https://addykm.000webhostapp.com/
+
 ## Features
 
 - **Dynamic QR Code Generation**: Easily generate QR codes with the integrated Google Chart API for various purposes.
@@ -20,12 +24,6 @@ The QR Code Management System is a dynamic platform designed to efficiently mana
 
 
 ## Screenshots
-
-
-
-## Website
-
-https://addykm.000webhostapp.com/
 
 
 ## Support
