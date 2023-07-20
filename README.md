@@ -24,6 +24,23 @@ https://addykm.000webhostapp.com/
 
 
 ## Screenshots
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/264217ff-032a-4f2e-b470-e40013b98e1d" style="max-width: 300px; margin: 5px;">
+  <img src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/27991d1b-3f1c-46be-8abd-e1f3aefa7c52" style="max-width: 300px; margin: 5px;">
+  <img src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/780404cc-10d8-40d4-b19f-733ad1961e74" style="max-width: 300px; margin: 5px;">
+</div>
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/e8357d26-8111-4d73-97be-e9859d2fe77f" style="max-width: 300px; margin: 5px;">
+  <img src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/9da91e26-58cf-45e5-8475-407329e524b8" style="max-width: 300px; margin: 5px;">
+  <img src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/9af12261-c5b1-42d5-a043-e6b1b51f0ab1" style="max-width: 300px; margin: 5px;">
+</div>
+
+![1](https://github.com/Adarsh6158/SecureQRX/assets/119891550/264217ff-032a-4f2e-b470-e40013b98e1d)
+![2](https://github.com/Adarsh6158/SecureQRX/assets/119891550/27991d1b-3f1c-46be-8abd-e1f3aefa7c52)
+![3](https://github.com/Adarsh6158/SecureQRX/assets/119891550/780404cc-10d8-40d4-b19f-733ad1961e74)
+![4](https://github.com/Adarsh6158/SecureQRX/assets/119891550/e8357d26-8111-4d73-97be-e9859d2fe77f)
+![5](https://github.com/Adarsh6158/SecureQRX/assets/119891550/9da91e26-58cf-45e5-8475-407329e524b8)
+![6](https://github.com/Adarsh6158/SecureQRX/assets/119891550/9af12261-c5b1-42d5-a043-e6b1b51f0ab1)
 
 
 ## Support
