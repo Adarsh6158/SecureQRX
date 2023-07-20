@@ -22,9 +22,7 @@ https://addykm.000webhostapp.com/
 - Make informed decisions by utilizing actionable insights from QR code usage data.
 - Optimize QR code campaigns to enhance their performance and effectiveness.
 
-
-## Screenshots
-<style>
+  <style>
   .image-row {
     display: flex;
     justify-content: center;
@@ -32,7 +30,7 @@ https://addykm.000webhostapp.com/
   }
 
   .image {
-    max-width: 300px;
+    max-width: 200px;
     margin: 5px;
   }
 </style>
@@ -51,6 +49,10 @@ https://addykm.000webhostapp.com/
   <img class="image" src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/9af12261-c5b1-42d5-a043-e6b1b51f0ab1" alt="Image 6">
 </div>
 
+
+
+## Screenshots
+
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/264217ff-032a-4f2e-b470-e40013b98e1d" style="max-width: 300px; margin: 5px;">
   <img src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/27991d1b-3f1c-46be-8abd-e1f3aefa7c52" style="max-width: 300px; margin: 5px;">
@@ -61,8 +63,6 @@ https://addykm.000webhostapp.com/
   <img src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/9da91e26-58cf-45e5-8475-407329e524b8" style="max-width: 300px; margin: 5px;">
   <img src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/9af12261-c5b1-42d5-a043-e6b1b51f0ab1" style="max-width: 300px; margin: 5px;">
 </div>
-
-
 
 
 ## Support
