@@ -27,19 +27,24 @@ https://addykm.000webhostapp.com/
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 10px;
-    margin: 10px 0;
+    gap: 30px;
+    margin: 20px 0;
   }
 
   .image-container {
-    max-width: 300px;
+    text-align: center;
+    max-width: 400px;
   }
 
   .image {
     max-width: 100%;
     height: auto;
     display: block;
-    margin: 5px;
+    margin: 5px auto;
+  }
+
+  .caption {
+    font-style: italic;
   }
 </style>
 
@@ -47,28 +52,16 @@ https://addykm.000webhostapp.com/
 
 <div class="image-row">
   <div class="image-container">
-    <img class="image" src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/264217ff-032a-4f2e-b470-e40013b98e1d" alt="Image 1">
+    <img class="image" src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/264217ff-032a-4f2e-b470-e40013b98e1d" alt="Screenshot 1">
+    <p class="caption">Insert a page request into the sequence by left-clicking.</p>
   </div>
   <div class="image-container">
-    <img class="image" src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/27991d1b-3f1c-46be-8abd-e1f3aefa7c52" alt="Image 2">
-  </div>
-</div>
-
-<div class="image-row">
-  <div class="image-container">
-    <img class="image" src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/780404cc-10d8-40d4-b19f-733ad1961e74" alt="Image 3">
+    <img class="image" src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/27991d1b-3f1c-46be-8abd-e1f3aefa7c52" alt="Screenshot 2">
+    <p class="caption">Remove the most recently added page request by right-clicking.</p>
   </div>
   <div class="image-container">
-    <img class="image" src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/e8357d26-8111-4d73-97be-e9859d2fe77f" alt="Image 4">
-  </div>
-</div>
-
-<div class="image-row">
-  <div class="image-container">
-    <img class="image" src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/9da91e26-58cf-45e5-8475-407329e524b8" alt="Image 5">
-  </div>
-  <div class="image-container">
-    <img class="image" src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/9af12261-c5b1-42d5-a043-e6b1b51f0ab1" alt="Image 6">
+    <img class="image" src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/780404cc-10d8-40d4-b19f-733ad1961e74" alt="Screenshot 3">
+    <p class="caption">Start/stop the page replacement process using the spacebar.</p>
   </div>
 </div>
 
