@@ -31,40 +31,47 @@ https://addykm.000webhostapp.com/
     margin: 10px 0;
   }
 
-  .image {
+  .image-container {
     max-width: 300px;
+  }
+
+  .image {
+    max-width: 100%;
     height: auto;
+    display: block;
+    margin: 5px;
   }
 </style>
 
 ## Screenshots
 
 <div class="image-row">
-  <img class="image" src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/264217ff-032a-4f2e-b470-e40013b98e1d" alt="Image 1">
-  <img class="image" src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/27991d1b-3f1c-46be-8abd-e1f3aefa7c52" alt="Image 2">
-  <img class="image" src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/780404cc-10d8-40d4-b19f-733ad1961e74" alt="Image 3">
+  <div class="image-container">
+    <img class="image" src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/264217ff-032a-4f2e-b470-e40013b98e1d" alt="Image 1">
+  </div>
+  <div class="image-container">
+    <img class="image" src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/27991d1b-3f1c-46be-8abd-e1f3aefa7c52" alt="Image 2">
+  </div>
 </div>
 
 <div class="image-row">
-  <img class="image" src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/e8357d26-8111-4d73-97be-e9859d2fe77f" alt="Image 4">
-  <img class="image" src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/9da91e26-58cf-45e5-8475-407329e524b8" alt="Image 5">
-  <img class="image" src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/9af12261-c5b1-42d5-a043-e6b1b51f0ab1" alt="Image 6">
+  <div class="image-container">
+    <img class="image" src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/780404cc-10d8-40d4-b19f-733ad1961e74" alt="Image 3">
+  </div>
+  <div class="image-container">
+    <img class="image" src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/e8357d26-8111-4d73-97be-e9859d2fe77f" alt="Image 4">
+  </div>
 </div>
 
-
-
-## Screenshots
-
-<div style="display: flex; justify-content: center;">
-  <img src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/264217ff-032a-4f2e-b470-e40013b98e1d" style="max-width: 300px; margin: 5px;">
-  <img src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/27991d1b-3f1c-46be-8abd-e1f3aefa7c52" style="max-width: 300px; margin: 5px;">
-  <img src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/780404cc-10d8-40d4-b19f-733ad1961e74" style="max-width: 300px; margin: 5px;">
+<div class="image-row">
+  <div class="image-container">
+    <img class="image" src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/9da91e26-58cf-45e5-8475-407329e524b8" alt="Image 5">
+  </div>
+  <div class="image-container">
+    <img class="image" src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/9af12261-c5b1-42d5-a043-e6b1b51f0ab1" alt="Image 6">
+  </div>
 </div>
-<div style="display: flex; justify-content: center;">
-  <img src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/e8357d26-8111-4d73-97be-e9859d2fe77f" style="max-width: 300px; margin: 5px;">
-  <img src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/9da91e26-58cf-45e5-8475-407329e524b8" style="max-width: 300px; margin: 5px;">
-  <img src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/9af12261-c5b1-42d5-a043-e6b1b51f0ab1" style="max-width: 300px; margin: 5px;">
-</div>
+
 
 
 ## Support
