@@ -22,49 +22,20 @@ https://addykm.000webhostapp.com/
 - Make informed decisions by utilizing actionable insights from QR code usage data.
 - Optimize QR code campaigns to enhance their performance and effectiveness.
 
-<style>
-  .image-row {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 30px;
-    margin: 20px 0;
-  }
-
-  .image-container {
-    text-align: center;
-    max-width: 400px;
-  }
-
-  .image {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: 5px auto;
-  }
-
-  .caption {
-    font-style: italic;
-  }
-</style>
-
 ## Screenshots
 
-<div class="image-row">
-  <div class="image-container">
-    <img class="image" src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/264217ff-032a-4f2e-b470-e40013b98e1d" alt="Screenshot 1">
-    <p class="caption">Insert a page request into the sequence by left-clicking.</p>
-  </div>
-  <div class="image-container">
-    <img class="image" src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/27991d1b-3f1c-46be-8abd-e1f3aefa7c52" alt="Screenshot 2">
-    <p class="caption">Remove the most recently added page request by right-clicking.</p>
-  </div>
-  <div class="image-container">
-    <img class="image" src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/780404cc-10d8-40d4-b19f-733ad1961e74" alt="Screenshot 3">
-    <p class="caption">Start/stop the page replacement process using the spacebar.</p>
-  </div>
-</div>
-
+<p align="center">
+  <img src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/264217ff-032a-4f2e-b470-e40013b98e1d" alt="Screenshot 1" width="400">
+  <br>
+</p>
+<p align="center">
+  <img src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/27991d1b-3f1c-46be-8abd-e1f3aefa7c52"" alt="Screenshot 2" width="400">
+  <br>
+</p>
+<p align="center">
+  <img src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/780404cc-10d8-40d4-b19f-733ad1961e74" alt="Screenshot 3" width="400">
+  <br>
+</p>
 
 
 ## Support
