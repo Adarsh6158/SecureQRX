@@ -22,16 +22,18 @@ https://addykm.000webhostapp.com/
 - Make informed decisions by utilizing actionable insights from QR code usage data.
 - Optimize QR code campaigns to enhance their performance and effectiveness.
 
-  <style>
+<style>
   .image-row {
     display: flex;
     justify-content: center;
+    align-items: center;
+    gap: 10px;
     margin: 10px 0;
   }
 
   .image {
-    max-width: 200px;
-    margin: 5px;
+    max-width: 300px;
+    height: auto;
   }
 </style>
 
