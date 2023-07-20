@@ -25,7 +25,7 @@ https://addykm.000webhostapp.com/
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/264217ff-032a-4f2e-b470-e40013b98e1d" alt="Screenshot 1" width="400">
+  <img src="https://github.com/Adarsh6158/SecureQRX/assets/119891550/264217ff-032a-4f2e-b470-e40013b98e1d" alt="Screenshot 1" width="600">
   <br>
 </p>
 <p align="center">
