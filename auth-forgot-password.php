@@ -182,7 +182,7 @@ if (!$email_query_run) {
 
 function generateVerificationToken()
 {
-    // Generate a random token using a combination of letters and numbers
+   
     $length = 10;
     $characters = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
     $token = '';
@@ -194,7 +194,7 @@ function generateVerificationToken()
 
 function storeVerificationToken($token, $email)
 {
-    // Store the token and associated email in a session
+    
     $_SESSION['verification_token'] = $token;
     $_SESSION['verification_email'] = $email;
 }
@@ -246,24 +246,24 @@ function storeVerificationToken($token, $email)
     <div class="container-fluid">
         <div class="bg-light p-3 rounded-2 form-base col-12 col-sm-12 col-md-4">
 
-            <!-- Form starts -->
+           
             <form action="#" autocomplete="off" method="POST">
 
-                <!-- Heading -->
+              
                 <h1 class="display-4 text-primary text-center mb-4"><b>Email Verification</b></h1>
 
-                <!-- Input Email Field -->
+                
                 <div class="form-group">
                     <label for="email">Email</label>
                     <input type="email" name="email" class="form-control" placeholder="Enter your email" required>
                 </div>
 
-                <!-- Error Alert -->
+                
                 <div class="alert alert-danger d-none" role="alert" id="errorMsg">
                     Please enter a valid email address.
                 </div>
 
-                <!-- Submit and Back Button -->
+               
                 <div class="row justify-content-end mt-4">
                     <div class="col-4">
                         <button type="button" class="btn btn-secondary btn-block"
