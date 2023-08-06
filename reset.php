@@ -11,7 +11,7 @@ if(isset($_POST['submit']))
     $repass = $_POST['Repassword'];
 
     if($pass == $repass){
-        // Validate password requirements
+      
         $password_pattern = "/^(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[!@#$%^&*()\-_=+{};:,<.>])(?!.*\s).{8,}$/";
         if(!preg_match($password_pattern, $pass)){
             $password_error = "Password should contain at least 8 characters, including:";
@@ -23,7 +23,7 @@ if(isset($_POST['submit']))
             $password_error .= "</ul>";
         }
         else {
-            $hashed_password = password_hash($pass, PASSWORD_DEFAULT); // Hash the new password
+            $hashed_password = password_hash($pass, PASSWORD_DEFAULT); 
 
             $sql = "UPDATE users SET password='$hashed_password' WHERE email='$email'";
             $pass_query_run = mysqli_query($con, $sql);
