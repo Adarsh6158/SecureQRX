@@ -1,5 +1,5 @@
 <?php 
-ob_start(); // Start output buffering
+ob_start(); 
 
 include('header.php');
 check_auth();
@@ -11,11 +11,11 @@ if($_SESSION['QR_USER_ROLE']==1){
 
 if(isset($_GET['type']) && $_GET['type']=='download'){
     $link="https://chart.apis.google.com/chart?cht=qr&chs=".$_GET['chs']."&chco=".$_GET['chco']."&chl=".$_GET['chl'];
-    ob_clean(); // Clear output buffer
+    ob_clean(); 
     header('Content-type: application/x-file-to-save');
     header('Content-Disposition: attachment;filename='.time().'.jpg');
     readfile($link);
-    exit(); // Terminate the script after sending the file
+    exit(); 
 }
 
 if(isset($_GET['status']) && $_GET['status']!='' && isset($_GET['id']) && $_GET['id']>0){
