@@ -86,7 +86,7 @@ if (isset($_POST['submit'])) {
             $mail->isHTML(true); // Set email format to HTML
             $mail->Subject = 'Your Password';
 
-            // Access $_POST['password'] separately and assign it to a variable
+            
             
 
             $mail->Body = "
