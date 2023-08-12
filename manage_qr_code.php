@@ -99,7 +99,7 @@ if(isset($_POST['submit'])){
                     $is_selected = "selected";
                 }
 
-                // Use the color code to fetch the corresponding color name
+               
                 $colorName = isset($colorNames[$colorRow['color']]) ? $colorNames[$colorRow['color']] : '';
 
                 echo '<option value="' . $colorRow['color'] . '" ' . $is_selected . '>' . $colorName . '</option>';
