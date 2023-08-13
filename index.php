@@ -53,7 +53,7 @@ if(isset($_POST['submit'])){
                     <div class="logo">
                         <h3 class="box-title mb-3">Sign In</h3>
                     </div>
-                    <!-- Form -->
+                    
                     <div class="row">
                         <div class="col-12">
                             <form class="form-horizontal mt-3 form-material" method="post" id="frmLogin">
